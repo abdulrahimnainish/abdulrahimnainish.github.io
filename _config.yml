@@ -13,9 +13,9 @@ title: Abdul Rahim Nainish's Portfolio # This is what shows up in the tab of the
 
 # Hero Section
 name: Rahim
-headline: SEP1 Project
+headline: Systems Engineering Project 1
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  We created and constructed a physical arena for the AgileX LIMO mobile robot as part of a robotics systems engineering project. The environment 
+  For this project, my team created and constructed a physical arena for the AgileX LIMO mobile robot as part of a robotics systems engineering project. The environment 
   was designed to facilitate essential robotic tasks like autonomous navigation, path planning, mapping, and localization. Understanding how the 
   robot interacts with its environment, handling design trade-offs under time and financial constraints, and cooperating as a team were all necessary
   for this project. Reliable testing of SLAM, obstacle avoidance, and navigation techniques in a controlled environment was made possible by the finished arena.
