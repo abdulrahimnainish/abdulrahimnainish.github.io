@@ -5,7 +5,7 @@ description: For this project, my team created and constructed a physical arena 
 skills: 
   - ROS
 
-main-image: /sonos.png
+main-image: /Limo_pro.png
 ---
 
 
