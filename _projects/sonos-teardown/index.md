@@ -5,7 +5,10 @@ description: For this project, my team created and constructed a physical arena 
 
 
 ##Arena Design
-description: Before the actual implementation of the robot autonomous navigation, the arena had to be created. Our team's arena design was a collaborative and interative process which began with the survey of Changi Airport Terminal 1 to gather perspective of distinct landmarks such as the arrival/departure halls and Kinetic rain. With these references, we created an initial 3D layout on SolidWorks to model the arena layout. After which, our team reviewed and refined our design based on space constraint and material limitations. Key modifications included removing ramps to to simplify the making of the arena and focused on scalable elemnents like walls, flooring and decorative structures. Our team team then sourced materials such as foam board for the flooring and walls, clay for the Kinetic Rain Droplets (practical to build and aestheically accurate) and spray paint for finishing. Through trial aand error and feedbacks, the final arena design managed to capture the essernce of Changi Airport Terminal while also following the technical requirements of AgileX LIMO robot's navigation.
+Before the actual implementation of the robot autonomous navigation, the arena had to be created. Our team's arena design was a collaborative and interative process which began with the survey of Changi Airport Terminal 1 to gather perspective of distinct landmarks such as the arrival/departure halls and Kinetic rain. With these references, we created an initial 3D layout on SolidWorks to model the arena layout. After which, our team reviewed and refined our design based on space constraint and material limitations. Key modifications included removing ramps to to simplify the making of the arena and focused on scalable elemnents like walls, flooring and decorative structures. Our team team then sourced materials such as foam board for the flooring and walls, clay for the Kinetic Rain Droplets (practical to build and aestheically accurate) and spray paint for finishing. Through trial aand error and feedbacks, the final arena design managed to capture the essernce of Changi Airport Terminal while also following the technical requirements of AgileX LIMO robot's navigation.
+
+##Implementing Systems Approach
+
 
 skills: 
   - ROS
