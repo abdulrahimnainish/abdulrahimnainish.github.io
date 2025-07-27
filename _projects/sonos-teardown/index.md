@@ -19,6 +19,11 @@ One advantage of using RTAB-Map is that it eliminates the need to set the robotâ
 
 skills: 
   - ROS
+  - SLAM (Simultaneous Localization and Mapping)
+  - RViz
+  - Path-planning
+  - LiDAR & Depth Camera Data Processing
+  - ROS Topics, Services, and Actionlib
 
 main-image: /Limo_pro.png
 ---
